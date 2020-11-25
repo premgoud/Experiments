@@ -25,7 +25,7 @@ class single_llist
         void insert_pos();
         void insert_last(); 
         void delete_pos();
-        void sort();
+        void sort(
         void search();
         void update();
         void reverse();
